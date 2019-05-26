@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FuNotes.github.io</id>
+    <id>https://chenghai-fu.github.io/FuNotes.github.io/</id>
     <title>雾霭、流岚、虹霓</title>
-    <updated>2019-05-26T07:33:46.856Z</updated>
+    <updated>2019-05-26T07:44:37.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://FuNotes.github.io"/>
-    <link rel="self" href="https://FuNotes.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chenghai-fu.github.io/FuNotes.github.io/"/>
+    <link rel="self" href="https://chenghai-fu.github.io/FuNotes.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://FuNotes.github.io/images/avatar.png</logo>
-    <icon>https://FuNotes.github.io/favicon.ico</icon>
+    <logo>https://chenghai-fu.github.io/FuNotes.github.io//images/avatar.png</logo>
+    <icon>https://chenghai-fu.github.io/FuNotes.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 雾霭、流岚、虹霓</rights>
     <entry>
         <title type="html"><![CDATA[小傅的开店经营理念设想]]></title>
-        <id>https://FuNotes.github.io/post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang</id>
-        <link href="https://FuNotes.github.io/post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang">
+        <id>https://chenghai-fu.github.io/FuNotes.github.io//post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang</id>
+        <link href="https://chenghai-fu.github.io/FuNotes.github.io//post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang">
         </link>
         <updated>2019-05-26T07:28:38.000Z</updated>
         <content type="html"><![CDATA[<p>小店的经营方向</p>
@@ -35,8 +35,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://FuNotes.github.io/post/hello-gridea</id>
-        <link href="https://FuNotes.github.io/post/hello-gridea">
+        <id>https://chenghai-fu.github.io/FuNotes.github.io//post/hello-gridea</id>
+        <link href="https://chenghai-fu.github.io/FuNotes.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
