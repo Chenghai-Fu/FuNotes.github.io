@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://FuNotes.github.io</id>
+    <title>雾霭、流岚、虹霓</title>
+    <updated>2019-05-26T07:33:46.856Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://FuNotes.github.io"/>
+    <link rel="self" href="https://FuNotes.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://FuNotes.github.io/images/avatar.png</logo>
+    <icon>https://FuNotes.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, 雾霭、流岚、虹霓</rights>
+    <entry>
+        <title type="html"><![CDATA[小傅的开店经营理念设想]]></title>
+        <id>https://FuNotes.github.io/post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang</id>
+        <link href="https://FuNotes.github.io/post/xiao-fu-de-kai-dian-jing-ying-li-nian-she-xiang">
+        </link>
+        <updated>2019-05-26T07:28:38.000Z</updated>
+        <content type="html"><![CDATA[<p>小店的经营方向</p>
+<p>1  “生活选物店”从风格着手的自创品牌</p>
+<p>从Senese30的生活小道具选物店，得到启示。既然名为“选物”，商品策略自然要打破单一按消费习惯划分的商品类别。</p>
+<p>** 将物件集合自不同品牌，凝聚成一家以风格为出发点的态度选物店。**</p>
+<blockquote>
+<p>Q1：如何让消费者认同小店的选物逻辑？这是经营的重点。</p>
+</blockquote>
+<p>A：无印良品的逻辑是什么？那是一种生活风格。它并不强调某一种或几种品类，甚至它是在不断扩充它的品类。http://www.shejipi.com/163188.html</p>
+<p>** 突显选物风格，而非个人取向 **</p>
+<p>许多零售店通常会陷入一种迷思，无法割舍个人喜好，导致挑选了错的物件（不单单指商品，还包括了软装等），从而削弱了整体的风格感。</p>
+<p>所以，定下选物原则，将店的个性放在第一位考量，其次才考虑质量、设计、机能等。</p>
+<blockquote>
+<p>Q2：如何选出风格感</p>
+</blockquote>
+<p>A：在决定买入商品之前尽可能与主事者、设计者熟识，借由攀谈理解他的精神，并且可以从细节观察商品的自我要求度。通常以视觉为第一考量，其次是质量与功能，最后才考虑销售与市场接受度。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://FuNotes.github.io/post/hello-gridea</id>
+        <link href="https://FuNotes.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
